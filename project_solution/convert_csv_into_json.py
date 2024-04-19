@@ -16,7 +16,7 @@ with open(file_path, newline='') as csvfile:
     for row in reader:
         data.append((row[0], row[1], row[2])) #how many rows do you want to read?
 
-# grouping the data
+# grouping the data in a specific way wich I needed
 grouped = {}
 
 for Names, Brand, ref in data:
