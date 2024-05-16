@@ -9,7 +9,7 @@ def similar(a, b):
 
 
 # read the data from a csv file
-file_path = #put here your local path to the csv document
+file_path =
 data = []
 with open(file_path, newline='') as csvfile:
     reader = csv.reader(csvfile)
@@ -35,6 +35,6 @@ for Names, Brand, ref in data:
         grouped[Brand] = {Names: True} #it will display true, you can changes it another value
 
 # create a json file
-# you can creata a different local path, not in this project
+# you can create a different local path, not in this project
 with open('output.json', 'w') as jsonfile:
     json.dump(grouped, jsonfile, indent=4)
