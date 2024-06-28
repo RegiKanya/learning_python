@@ -1,0 +1,110 @@
+[
+  {
+    "brand": "BAL",
+    "surveyId": "balochistan_health_monitoring_unit_bhmu",
+    "numberOfReports": 994,
+    "countInSurveyTable": 993,
+    "countInBigQuery": 993,
+    "missingFromPg": 1,
+    "missingFromBq": 1
+  },
+  {
+    "brand": "BAL",
+    "surveyId": "EPISitesMonitoring_BAL",
+    "numberOfReports": 34263,
+    "countInSurveyTable": 34253,
+    "countInBigQuery": 34253,
+    "missingFromPg": 10,
+    "missingFromBq": 10
+  },
+  {
+    "brand": "BAL",
+    "surveyId": "RCA_EPI_BAL_EOA",
+    "numberOfReports": 5526,
+    "countInSurveyTable": 5525,
+    "countInBigQuery": 5525,
+    "missingFromPg": 1,
+    "missingFromBq": 1
+  },
+  {
+    "brand": "TCD",
+    "surveyId": "TCD_DistrictReport",
+    "numberOfReports": 1350,
+    "countInSurveyTable": 1347,
+    "countInBigQuery": 1347,
+    "missingFromPg": 3,
+    "missingFromBq": 3
+  },
+  {
+    "brand": "TCD",
+    "surveyId": "TCD_session_supervision",
+    "numberOfReports": 58855,
+    "countInSurveyTable": 58791,
+    "countInBigQuery": 58791,
+    "missingFromPg": 64,
+    "missingFromBq": 64
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "CoordPevReport2",
+    "numberOfReports": 1735,
+    "countInSurveyTable": 1733,
+    "countInBigQuery": 1733,
+    "missingFromPg": 2,
+    "missingFromBq": 2
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "DemandSurvey",
+    "numberOfReports": 13413,
+    "countInSurveyTable": 13411,
+    "countInBigQuery": 13411,
+    "missingFromPg": 2,
+    "missingFromBq": 2
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "VaccineDelivery_HCD",
+    "numberOfReports": 2104,
+    "countInSurveyTable": 2099,
+    "countInBigQuery": 2099,
+    "missingFromPg": 5,
+    "missingFromBq": 5
+  },
+  {
+    "brand": "KP",
+    "surveyId": "KP_FixedSiteSupervision_PEI",
+    "numberOfReports": 6364,
+    "countInSurveyTable": 6359,
+    "countInBigQuery": 6359,
+    "missingFromPg": 5,
+    "missingFromBq": 5
+  },
+  {
+    "brand": "KP",
+    "surveyId": "KP_OutreachSiteSupervision_PEI",
+    "numberOfReports": 29790,
+    "countInSurveyTable": 29787,
+    "countInBigQuery": 29787,
+    "missingFromPg": 3,
+    "missingFromBq": 3
+  },
+  {
+    "brand": "KP",
+    "surveyId": "KP_RCA_PEI",
+    "numberOfReports": 31137,
+    "countInSurveyTable": 31134,
+    "countInBigQuery": 31134,
+    "missingFromPg": 3,
+    "missingFromBq": 3
+  },
+  {
+    "brand": "MOZ",
+    "surveyId": "community_based_survey_12",
+    "numberOfReports": 7477,
+    "countInSurveyTable": 7470,
+    "countInBigQuery": 7470,
+    "missingFromPg": 7,
+    "missingFromBq": 7
+  }
+]

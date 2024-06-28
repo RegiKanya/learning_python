@@ -1,5 +1,5 @@
 sms_r = "FRST;22A;5;4af3d5;drc;20240327104124;-8.7912;25.8572;3;0;10;245;287;15;14;0;5;5;4;4;9;0;2;1;firstsmsend;SCND;22A;5;4af3d5;drc;20240327104124;-8.7912;25.8572;3;0;10;245;287;15;14;0;5;5;4;4;9;0;2;1;secondsmsend"
-sms_rt = "ACAS;34A;14;be208e;drc;20240417144143;47.5097;19.2157;14;12;233;4505;9664;20240418;2;12;34;56;78;901;23;45;67;89;01;234;56;78;90;12;34;56;78;20240419"
+sms_rt = "J&J: (Right answer:Two months after primary series)Sinopharm (Right answer: Six months after 2nd dose)AstraZeneca (Right answer: Four to six months after primary series)(Rigth answer: Four to six months after primary series)The team does not know the booster dose administration criteria"
 long_sms = len(sms_rt)
 first_part = sms_r[:160]
 scnd_part = sms_r[160:]

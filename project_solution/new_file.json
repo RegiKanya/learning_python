@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "TCD",
+    "surveyId": "TCD_HealthCenterSupervision",
+    "numberOfReports": 35139,
+    "countInSurveyTable": 34982,
+    "countInBigQuery": 34984,
+    "errorLogCount": 44,
+    "missingFromPg": 157,
+    "missingFromBq": 155
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "AntennaPevReport2",
+    "numberOfReports": 6852,
+    "countInSurveyTable": 6848,
+    "countInBigQuery": 6848,
+    "errorLogCount": 1,
+    "missingFromPg": 4,
+    "missingFromBq": 4
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "HealthCenterSupervision",
+    "numberOfReports": 354026,
+    "countInSurveyTable": 353073,
+    "countInBigQuery": 353114,
+    "errorLogCount": 571,
+    "missingFromPg": 953,
+    "missingFromBq": 912
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "HealthZoneReport",
+    "numberOfReports": 11570,
+    "countInSurveyTable": 11557,
+    "countInBigQuery": 11557,
+    "errorLogCount": 6,
+    "missingFromPg": 13,
+    "missingFromBq": 13
+  },
+  {
+    "brand": "DRC",
+    "surveyId": "HealthZoneSupervision",
+    "numberOfReports": 21830,
+    "countInSurveyTable": 21791,
+    "countInBigQuery": 21791,
+    "errorLogCount": 15,
+    "missingFromPg": 39,
+    "missingFromBq": 39
+  },
+  {
+    "brand": "KP",
+    "surveyId": "KP_FixedSiteSupervision",
+    "numberOfReports": 73846,
+    "countInSurveyTable": 73802,
+    "countInBigQuery": 73803,
+    "errorLogCount": 2,
+    "missingFromPg": 44,
+    "missingFromBq": 43
+  },
+  {
+    "brand": "KP",
+    "surveyId": "KP_OutreachSiteSupervision",
+    "numberOfReports": 75250,
+    "countInSurveyTable": 62869,
+    "countInBigQuery": 62871,
+    "errorLogCount": 12329,
+    "missingFromPg": 12381,
+    "missingFromBq": 12379
+  },
+  {
+    "brand": "KP",
+    "surveyId": "KP_RCA_EPI",
+    "numberOfReports": 39867,
+    "countInSurveyTable": 39826,
+    "countInBigQuery": 39829,
+    "errorLogCount": 0,
+    "missingFromPg": 41,
+    "missingFromBq": 38
+  },
+  {
+    "brand": "SND",
+    "surveyId": "FixedSiteSupervision",
+    "numberOfReports": 95792,
+    "countInSurveyTable": 89966,
+    "countInBigQuery": 89973,
+    "errorLogCount": 5826,
+    "missingFromPg": 5826,
+    "missingFromBq": 5819
+  },
+  {
+    "brand": "SND",
+    "surveyId": "OutreachSiteSupervision",
+    "numberOfReports": 105796,
+    "countInSurveyTable": 97773,
+    "countInBigQuery": 97781,
+    "errorLogCount": 8022,
+    "missingFromPg": 8023,
+    "missingFromBq": 8015
+  },
+  {
+    "brand": "SDN",
+    "surveyId": "form_of_supervision_on_sites_acceleration_campaign_2024",
+    "numberOfReports": 98,
+    "countInSurveyTable": 98,
+    "countInBigQuery": 0,
+    "errorLogCount": 0,
+    "missingFromPg": 0,
+    "missingFromBq": 98
+  },
+  {
+    "brand": "SDN",
+    "surveyId": "sci_monthly_reporting_form_form_1",
+    "numberOfReports": 4,
+    "countInSurveyTable": 4,
+    "countInBigQuery": 4,
+    "errorLogCount": 4,
+    "missingFromPg": 0,
+    "missingFromBq": 0
+  }
+]
